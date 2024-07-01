@@ -14,7 +14,7 @@ Follow these steps to clone the repository and run the `create_users.sh` script:
 Open your terminal and run the following command to clone the repository:
 ```
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git@github.com:fktona/Bash_script.git
 ```
 
 Replace `yourusername` and `your-repo` with your actual GitHub username and repository name.
