@@ -42,9 +42,9 @@ Ensure you have a text file with the usernames and groups formatted as `username
 Example `user_list.txt` format:
 
 ```
-light;sudo,dev,www-data
-idimma;sudo
-mayowa;dev,www-data
+user2;group2,group1,group3
+user3;group3,group1
+user4;group2,group1
 ```
 
 ### Step 5: Run the Script
